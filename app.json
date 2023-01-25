@@ -10,7 +10,7 @@
       "python",
       "bot"
     ],
-  "repository": "https://github.com/missemily22/MultiFunctionBot/",
+  "repository": "https://github.com/KR-BOTZ/MultiFunctionBypassBot",
   "success_url": "/",
   "env": {
       "API_ID": {
